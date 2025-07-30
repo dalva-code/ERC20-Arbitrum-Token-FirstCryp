@@ -1,6 +1,6 @@
 # ERC-20 Token on Arbitrum - FirstCryp (FERC)
 
-This is a simple ERC-20 token deployed on the Arbitrum One network as part of a blockchain development bootcamp (Module 3).
+This is a simple ERC-20 token deployed on the Arbitrum One network as part of a blockchain development bootcamp.
 
 ## 🔗 Live Deployment
 - Token Contract: [`0xae0e99fb09a259fde72a9fa989945533b52182c9`](https://arbiscan.io/address/0xae0e99fb09a259fde72a9fa989945533b52182c9)
